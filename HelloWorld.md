@@ -4,7 +4,7 @@ author: "Me!"
 date: "9/7/2020"
 output: pdf_document
 ---
-## This is a markdownfile
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```

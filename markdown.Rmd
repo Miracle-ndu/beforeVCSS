@@ -1,10 +1,10 @@
 ---
-title: "HelloWorld"
+title: "Markdown"
 author: "Me!"
-date: "9/7/2020"
+date: "9/5/2020"
 output: pdf_document
 ---
-## This is a markdown file
+I **am** *happy* ~~always~~
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
